@@ -8,9 +8,9 @@
 
 This project is aimed at providing a series of handy packages for the development of a typical CRUD web application.  
 The packages are work around a kind of schema written in JSON for database table.   
-An example is provided [here](https://github.com/easycrud/example/tree/main/schemas) and the full definition can be found here: [TableSchema](https://github.com/easycrud/easycrud/blob/main/packages/toolkits/src/table-schema/types.ts#L101).  
+An example is provided [here](https://github.com/easycrud/example/tree/main/schemas) and the full definition can be found here: [TableSchema](https://github.com/easycrud/easycrud/blob/main/packages/toolkits/src/table-schema/types.ts#L107).  
 
-- 🛠️ [toolkits](https://github.com/easycrud/easycrud/tree/main/packages/toolikits)   
+- 🛠️ [toolkits](https://github.com/easycrud/easycrud/tree/main/packages/toolkits)   
   A Set of Utilities for JSON Table Schema.
   
 - 🖥️ [server](https://github.com/easycrud/easycrud/tree/main/packages/server)    
