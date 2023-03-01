@@ -1,0 +1,9 @@
+[{
+    "name": "username",
+    "type": "varchar",
+    "length": 256,
+    "nullable": false,
+    "primary": true,
+    "default": "",
+    "comment": "用户名"
+}]
